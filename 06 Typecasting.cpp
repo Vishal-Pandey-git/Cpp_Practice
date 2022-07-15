@@ -9,7 +9,7 @@ cout<<a<<"\t"<<c<<"\t"<<d<<endl;
 cout<<"typecasting"<<endl;
 char x=a;
 int y=c;
-string k=d;
+int k=d;
 cout<<x<<"\t"<<y<<"\t"<<k<<endl;
 cout<<"Inplace typecasting"<<endl;
 cout<<(char)a<<"\t"<<(double)c<<"\t"<<(int)d<<endl;
