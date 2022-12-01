@@ -7,3 +7,4 @@
 *.dylib
 *.json
 .vscode/
+.vs/
